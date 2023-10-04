@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Quantum Computing & Deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Holopins badges dashboard issued in [Hactober fest 2023](https://hacktoberfest.com/)
+
   
 [![An image of mine Holopin badges](https://holopin.me/raghavbell)](https://holopin.io/@raghavbell)
 <!---
