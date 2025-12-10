@@ -8,6 +8,8 @@
    
 
 [![An image of mine Holopin badges](https://holopin.me/raghavbell)](https://holopin.io/@raghavbell)
+
+<img src="ibmhacktoberfest2025.svg" height="200px"/>
 <!---
 Raghav-Bell/Raghav-Bell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
